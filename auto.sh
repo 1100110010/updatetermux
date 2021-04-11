@@ -1,15 +1,19 @@
 pkg uprage
 pkg update
+y
+n
+n
+n
 pkg upgrade
-apt uprage
 apt update
 apt upgrade
-apt-get uprage
 apt-get update
 apt-get upgrade
 pkg install python
+y
 pkg install python2
-pkg install python3
+y
+/data/data/com.termux/files/usr/bin/python3 -m pip install --upgrade pip
 python -m pip install --upgrade pip
 pkg install git
 cd ..
