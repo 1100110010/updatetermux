@@ -1,3 +1,7 @@
 print(" lütfen bir tuşa basınız; ")
-input(" hadi da bavo, gurbane çaviti ")
+x = input(" hadi da bavo, gurbane çaviti ")
+
+if(x = y)
+os.system(" ghsgh ")
+
 print(" eyw gözümsün ")
