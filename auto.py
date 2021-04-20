@@ -1,7 +1,5 @@
-print(" lütfen bir tuşa basınız; ")
-x = input(" hadi da bavo, gurbane çaviti ")
-
-if(x = y)
-os.system(" ghsgh ")
-
-print(" eyw gözümsün ")
+print(Fore.RED)
+print("Deneme yazısı.")
+print("Test yazısı.")
+print(Style.RESET_ALL)
+print("Bu varsayılan bir yazıdır.")
